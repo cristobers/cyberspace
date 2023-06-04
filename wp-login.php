@@ -1,3 +1,8 @@
+<?php
+    die();
+?>
+
 <script>
-    location.replace("https://proof.ovh.net/files/10Gb.dat")
+    alert("meow"); 
+    location.replace("https://proof.ovh.net/files/10Gb.dat");
 </script>
